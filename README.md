@@ -1,5 +1,5 @@
 # Spotify-top-playlist
-Atumoation project for creating spotify playlists. Script add top 10 tracks of every given artist to the list.
+Automation project for creating spotify playlists. Script add top 10 tracks of every given artist to the list.
 
 ### Dependencies
 ```
