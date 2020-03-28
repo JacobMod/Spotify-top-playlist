@@ -1,0 +1,5 @@
+{
+    "spotify_token" : "your_token",
+    "spotify_user_id" : "your_user_id",
+    "artists" : ["Name of first artist", "Name of second artist", "Name of third artist"]
+}
